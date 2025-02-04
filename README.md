@@ -1,7 +1,7 @@
  ![Screenshot 2022-08-14 003943](https://user-images.githubusercontent.com/59260722/184506869-b71c4482-a16e-4c11-8403-6d824a36fd55.png) 👋 Hey there, I’m Nizam.
 
  
-- 🎯 I am trying to become an indie game developer. I'm quite new. Currently, I'm doing my undergrad in Computer Science.  
+- 🎯 I am trying to become an indie game developer. I've completed my undergrad in Computer Science.  
 
 - 👀 To me what excites me most is mainly game development and computer simulation.   
 
